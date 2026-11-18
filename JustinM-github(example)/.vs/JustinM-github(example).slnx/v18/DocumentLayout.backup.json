@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcmor\\November\\JustinM-github(example)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB7CC68-4216-4C7E-9D28-044892C97CDE}|JustinM-github(example)\\JustinM-github(example).vcxproj|C:\\Users\\jcmor\\November\\JustinM-github(example)\\JustinM-github(example)\\JustinM-github(example).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB7CC68-4216-4C7E-9D28-044892C97CDE}|JustinM-github(example)\\JustinM-github(example).vcxproj|solutionrelative:JustinM-github(example)\\JustinM-github(example).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JustinM-github(example).cpp",
+              "DocumentMoniker": "C:\\Users\\jcmor\\November\\JustinM-github(example)\\JustinM-github(example)\\JustinM-github(example).cpp",
+              "RelativeDocumentMoniker": "JustinM-github(example)\\JustinM-github(example).cpp",
+              "ToolTip": "C:\\Users\\jcmor\\November\\JustinM-github(example)\\JustinM-github(example)\\JustinM-github(example).cpp*",
+              "RelativeToolTip": "JustinM-github(example)\\JustinM-github(example).cpp*",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T20:32:05.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

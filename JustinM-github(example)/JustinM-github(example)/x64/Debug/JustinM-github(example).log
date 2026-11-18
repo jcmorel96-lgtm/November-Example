@@ -1,0 +1,3 @@
+﻿  JustinM-github(example).cpp
+C:\Users\jcmor\November\JustinM-github(example)\JustinM-github(example)\JustinM-github(example).cpp(35,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  JustinM-github(example).vcxproj -> C:\Users\jcmor\November\JustinM-github(example)\x64\Debug\JustinM-github(example).exe

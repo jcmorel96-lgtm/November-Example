@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="JustinM-github(example)/JustinM-github(example).vcxproj" />
+  <Project Path="JustinM-github(example)/JustinM-github(example).vcxproj" Id="1cb7cc68-4216-4c7e-9d28-044892c97cde" />
 </Solution>
